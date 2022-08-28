@@ -25,7 +25,7 @@ M87-left / Sagittarius A-right
 </br>
 
 * ** 
-*"SAR [Synthetic Aperture Radar] is a type of active data collection where a sensor produces its own energy<sup>[1](#1)</sup> and then records the amount of that energy reflected back [to the sensor] after interacting with the Earth."(Herndon)<sup>[4](#4)</sup>*
+*"SAR [Synthetic Aperture Radar] is a type of active data collection where a sensor produces its own energy and then records the amount of that energy reflected back [to the sensor] after interacting with the Earth."(Herndon)<sup>[4](#4)</sup>*
 
 NASA definition of SAR: 
 Synthetic Aperature Radar data is gathered with the use of microwave emitters and recievers that are refered to as remote sensors. These remote sensors collect data from the target by emitting radio waves towards an area (Lat. & Long. bracketing defined by the user). The radio waves reflect off the user-defined area and are recieved by the satelite.  
