@@ -1,4 +1,4 @@
-# SAE_Imaging
+# SAR_Imaging
 **Ongoing research**
 ## Outline
 Research collected on synthetic aperature radar for reference. Record the research process and develop a comprihensive summary of SAR remote sensing for use in the future. 
