@@ -1,7 +1,7 @@
 # SAR_Imaging
-**Ongoing research**
+**Ongoing research**: The following is the approximate outline for ongoing studies on Synthetic aperture radar data retrieval and visualization. The ouline likely contains factual, spelling, and gramatical errors that are not reflected in final deliverables.
 ## Outline
-Research collected on synthetic aperature radar for reference. Record the research process and develop a comprihensive summary of SAR remote sensing for use in the future. 
+Research collected on synthetic aperture radar for reference. Record the research process and develop a comprehensive summary of SAR remote sensing for use in the future. 
 
 ## General Info
 info draft: 
