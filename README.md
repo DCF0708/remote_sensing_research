@@ -11,13 +11,13 @@ info draft:
 
 Optical remote sensing is done by *passively*<sup>[1](#1)</sup> capturing only the radiation with a wavelength that falls within the visible spectrum. Optical satellite imagery offers numerous benefits in regards to image resolution<sup>[2](#2)</sup>, and is relied on by a wide variety of applications requiring geological observation. This process, however, requires certain strict environmental conditions to be met to yield usable data. Environmental conditions such as cloud cover, atmospheric debris, or lack of reflected radiation (A.K.A. any observations made at nighttime) would all present impassable scenarios preventing the capture of usable imagery. Images from optical remote sensors need little post-processing and still tend to be more easily recognizable than other forms of remote sensing due to their familiar format. But unfortunate environmental constraints limit the potential uses of optical sensors to provide up-to-date imagery at a moment's notice.
 
-Microwave radar is collected *actively*<sup>[1](#1)</sup> through the emission and capture of reflected energy with wavelengths that fall, *very surprisingly*, within the microwave spectrum. The conditional requirements for this mode of data collection are much less environmentally dependent. However, this form of remote sensing dictates by nature that the resolution of any image collected is largely dependent on the size of the aperature used to collect it. Meaning that without the presence of an astronomically large aperature. (Such as the one synthesized to collect images of the accretion disk surrounding the event horizon of the black hole at the center of the Milky Way (26,000 light-years away from earth) , [Sagittarius A](https://www.space.com/meet-milky-way-black-hole-sagittarius-a))
+Microwave radar is collected through the emission and capture of reflected energy with wavelengths that fall, *very surprisingly*, within the microwave spectrum. The conditional requirements for this mode of data collection are much less environmentally dependent. However, this form of remote sensing dictates by nature that the resolution of any image collected is largely dependent on the size of the aperature used to collect it. Meaning that without the presence of an astronomically large aperature. (Such as the one synthesized to collect images of the accretion disk surrounding the event horizon of the black hole at the center of the Milky Way (26,000 light-years away from earth) , [Sagittarius A](https://www.space.com/meet-milky-way-black-hole-sagittarius-a))
 
 * **
 
 **Pause for interesting rabit hole.**
 
-The same process used to collect and visualize data of Sagittarius A was first conducted on Messier 87, another black hole at the center of the Virgo Cluster. An image of the visualizations is included below. The ring around the perimeter and the centrally placed white dot in the image of Sgr. A represent a rough approximation of Mercury's orbit and the Sun's diameter respectively. The small ring and white dot in the image of M87 however, represents the ***the entire approximated ellipsal orbit of pluto, and the distance covered by Voyager 1 over the entirety of its journey to interstellar space since it's launch on September 5th, 1977.*** 
+The same process used to collect and visualize data of Sagittarius A was first conducted on Messier 87, another black hole at the center of the Virgo Cluster. An image of the visualizations is included below. The ring around the perimeter and the centrally placed dot within the image of Sgr. A represent a rough approximation of Mercury's orbit and the Sun's diameter respectively. The small ring and white dot in the image of M87 however, represents the ***the entire approximated ellipsal orbit of pluto, and the distance covered by Voyager 1 over the entirety of its journey to interstellar space since it's launch on September 5th, 1977.*** 
 ![](./black-hole-M87.jpeg)
 
 M87-left / Sagittarius A-right
@@ -26,7 +26,7 @@ M87-left / Sagittarius A-right
 
 
 * ** 
-*"SAR [Synthetic Aperture Radar] is a type of active data collection where a sensor produces its own energy and then records the amount of that energy reflected back [to the sensor] after interacting with the Earth."*(Herndon) 
+*"SAR [Synthetic Aperture Radar] is a type of active data collection where a sensor produces its own energy<sup>[1](#1)</sup> and then records the amount of that energy reflected back [to the sensor] after interacting with the Earth."*(Herndon) 
 
 NASA definition of SAR: 
 Synthetic Aperature Radar data is gathered with the use of microwave emitters and recievers that are refered to as remote sensors. These remote sensors collect data from the target by emitting radio waves towards an area (Lat. & Long. bracketing defined by the user). The radio waves reflect off the user-defined area and are recieved by the satelite.  
